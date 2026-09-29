@@ -1,0 +1,63 @@
+summary: Results-driven Engineering Services Analyst with 2.6+ years of experience
+  turning complex operational and system data into automated dashboards and actionable
+  insights for enterprise stakeholders.
+summary_runs:
+- text: Results-driven Engineering Services Analyst
+  bold: true
+- text: ' with 2.6+ years of hands-on experience extracting, transforming, and analyzing
+    operational data across systems. Proven track record at '
+  bold: false
+- text: 'Micropoint Computers (Client: L&T Realty)'
+  bold: true
+- text: ' in developing automated Power BI dashboards, KPI tracking, and multi-source
+    ETL pipelines that cut manual reporting by '
+  bold: false
+- text: ~30%
+  bold: true
+- text: ' and sustain '
+  bold: false
+- text: 95%+ SLA compliance
+  bold: true
+- text: .
+  bold: false
+skills_lines:
+- - Analytics & Visualization
+  - Power BI, DAX, Power Query, Advanced Excel (Pivot Tables, XLOOKUP, Macros), Dashboard
+    Development, MIS Reporting
+- - Programming & Querying
+  - SQL (Joins, CTEs, Window Functions), MySQL, Python (Pandas, NumPy), R, Jupyter
+    Notebook
+- - Data Synthesis & Quality
+  - Data Cleaning, Data Quality Assurance, ETL, Multi-Source Integration, Exploratory
+    Data Analysis (EDA)
+- - Business & SLA Analytics
+  - KPI Design, SLA Reporting, Requirements Gathering, Process Automation, Root-Cause
+    Analysis
+- - Cloud & Tools
+  - AWS (S3, Glue, EC2), Git/GitHub, Microsoft 365, Active Directory
+experience_bullets:
+- lead: Data Synthesis & Multi-Source Extraction
+  text: Extracted, synthesized, and analyzed data from multiple operational systems
+    using SQL, Python, and Databricks notebooks to identify critical performance trends
+    and root causes.
+- lead: Automated BI Dashboards
+  text: Developed and maintained centralized Power BI dashboards (DAX, Power Query)
+    and Excel/SQL reports tracking operational KPIs and asset metrics for management
+    decision-making.
+- lead: Workflow Automation
+  text: Automated recurring data ingestion and reporting workflows using Power Query
+    and Python, cutting manual reporting effort by ~30% and accelerating turnaround.
+- lead: Stakeholder Collaboration & Requirements
+  text: Partnered with business stakeholders across L&T Realty to translate operational
+    challenges into reporting requirements, defining metrics for SLA compliance and
+    incident tracking.
+- lead: Data Quality & Governance
+  text: Maintained high data integrity and reliability across user, asset, and system
+    records for 100+ end users while sustaining 95%+ SLA compliance.
+project_bullets:
+- text: Built an interactive Power BI service desk dashboard covering ticket volume,
+    incident trends, SLA compliance, and engineer resolution times.
+- text: Extracted and transformed multi-source operational data with SQL and Power
+    Query, automating recurring reporting and slashing manual effort by ~30%.
+- text: Developed centralized asset and inventory tracking dashboards consolidating
+    multi-source spreadsheets into a single source of truth with drill-through views.

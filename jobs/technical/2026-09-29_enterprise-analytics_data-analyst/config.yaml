@@ -1,0 +1,58 @@
+summary: Results-driven Data Analyst with 2.6+ years of experience turning operational
+  data into decision-ready insights for enterprise stakeholders across Data Analytics
+  & Business Intelligence.
+summary_runs:
+- text: Results-driven Data Analyst
+  bold: true
+- text: ' with 2.6+ years of experience delivering high-impact dashboards and automated
+    reporting at '
+  bold: false
+- text: Micropoint Computers Pvt. Ltd., Mumbai
+  bold: true
+- text: ' in the '
+  bold: false
+- text: Data Analytics & Business Intelligence
+  bold: true
+- text: ' domain. Hands-on expertise in Power BI, DAX, SQL, Python, and translating
+    business requirements into scalable reporting solutions.'
+  bold: false
+skills_lines:
+- - Analytics And Visualization
+  - Power BI, DAX, Power Query, Advanced Excel, Dashboard Development, Data Visualization,
+    Business Intelligence (BI), MIS Reporting
+- - Programming And Data
+  - SQL (Joins, CTEs, Window Functions), Python (Pandas, NumPy)
+- - Business And Strategic Impact
+  - KPI Design, SLA Reporting, Process Automation, Root-Cause Analysis, Stakeholder
+    Management, Cross-Functional Collaboration
+- - Data Governance And Quality
+  - Data Cleaning, Data Quality Assurance, Multi-Source Data Integration, Exploratory
+    Data Analysis (EDA), Statistical Analysis
+- - Cloud And Tools
+  - Active Directory
+experience_bullets:
+- lead: Multi-Source Data Integration
+  text: Integrate and analyze data from multiple systems using SQL, Python, R, and
+    Databricks notebooks to identify trends and present findings to management and
+    cross-functional teams.
+- lead: Exploratory Data Analysis
+  text: Performed exploratory data analysis (EDA) in Python (Pandas, NumPy) to surface
+    trends and patterns that informed team decisions.
+- lead: Stakeholder Collaboration & KPI Design
+  text: Partner with business stakeholders across L&T Realty to translate operational
+    problems into reporting requirements, defining KPIs for SLA compliance, ticketing
+    trends, and asset-management reporting used by management.
+- lead: Power BI & Reporting Dashboards
+  text: Build and maintain Power BI dashboards (DAX, Power Query) and Excel/SQL reports
+    that track operational KPIs and support day-to-day management decision-making.
+- lead: Reporting Process Automation
+  text: Automate recurring reporting workflows using Power Query and Python, cutting
+    manual reporting effort by ~30% and improving turnaround time.
+project_bullets:
+- text: Built an interactive Power BI dashboard covering ticket volume, incident trends,
+    SLA compliance, response time, resolution time, and engineer performance.
+- text: Extracted and transformed service desk data with SQL and Power Query, automating
+    weekly/monthly reporting and cutting manual effort by ~30%.
+- text: Analyzed historical sales data across regions and product categories, then
+    built an interactive Power BI dashboard tracking monthly sales, revenue growth,
+    and regional performance using Power Query, SQL, and Pandas.
