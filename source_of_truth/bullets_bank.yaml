@@ -1,0 +1,115 @@
+bullets:
+  - id: exp_micropoint_01
+    section: work_experience
+    employer: Micropoint Computers Pvt. Ltd., Mumbai
+    lead_in: Stakeholder Collaboration & KPI Design
+    text: Partner with business stakeholders across L&T Realty to translate operational problems into reporting requirements, defining KPIs for SLA compliance, ticketing trends, and asset-management reporting used by management.
+    locked: false
+    tags: [stakeholder, kpi, sla, requirements, l&t]
+
+  - id: exp_micropoint_02
+    section: work_experience
+    employer: Micropoint Computers Pvt. Ltd., Mumbai
+    lead_in: Power BI & Reporting Dashboards
+    text: Build and maintain Power BI dashboards (DAX, Power Query) and Excel/SQL reports that track operational KPIs and support day-to-day management decision-making.
+    locked: false
+    tags: [power_bi, dax, power_query, sql, excel, dashboards]
+
+  - id: exp_micropoint_03
+    section: work_experience
+    employer: Micropoint Computers Pvt. Ltd., Mumbai
+    lead_in: Multi-Source Data Integration
+    text: Integrate and analyze data from multiple systems using SQL, Python, R, and Databricks notebooks to identify trends and present findings to management and cross-functional teams.
+    locked: false
+    tags: [sql, python, r, databricks, data_integration, analysis]
+
+  - id: exp_micropoint_04
+    section: work_experience
+    employer: Micropoint Computers Pvt. Ltd., Mumbai
+    lead_in: Reporting Process Automation
+    text: Automate recurring reporting workflows using Power Query and Python, cutting manual reporting effort by ~30% and improving turnaround time.
+    locked: true
+    metrics: ["~30%"]
+    tags: [automation, power_query, python, efficiency]
+
+  - id: exp_micropoint_05
+    section: work_experience
+    employer: Micropoint Computers Pvt. Ltd., Mumbai
+    lead_in: SLA Compliance & Data Quality
+    text: Maintain clean, reliable underlying data (user, asset, and access records) for 100+ end users while sustaining 95%+ SLA compliance.
+    locked: true
+    metrics: ["100+", "95%+"]
+    tags: [sla, data_quality, user_records, compliance]
+
+  - id: exp_datauniverse_01
+    section: work_experience
+    employer: Data Universe
+    lead_in: Data Cleaning & ETL
+    text: Cleaned and prepared raw datasets from multiple sources (Excel, SQL, Python/Pandas) to ensure accuracy and consistency for reporting.
+    locked: false
+    tags: [data_cleaning, etl, excel, sql, pandas]
+
+  - id: exp_datauniverse_02
+    section: work_experience
+    employer: Data Universe
+    lead_in: BI & Metric Reporting
+    text: Built and maintained Excel and Power BI reports tracking core business metrics for internal stakeholders.
+    locked: false
+    tags: [power_bi, excel, reporting, metrics]
+
+  - id: exp_datauniverse_03
+    section: work_experience
+    employer: Data Universe
+    lead_in: Exploratory Data Analysis
+    text: Performed exploratory data analysis (EDA) in Python (Pandas, NumPy) to surface trends and patterns that informed team decisions.
+    locked: false
+    tags: [python, pandas, numpy, eda]
+
+  - id: exp_datauniverse_04
+    section: work_experience
+    employer: Data Universe
+    lead_in: Workflow Documentation
+    text: Supported senior analysts on dashboards and visualizations, and documented data workflows to standardize reporting practices across the team.
+    locked: false
+    tags: [documentation, visualization, best_practices]
+
+  - id: proj_servicedesk_01
+    section: projects
+    project: IT Service Desk Performance Dashboard
+    lead_in: Operational Analytics
+    text: Built an interactive Power BI dashboard covering ticket volume, incident trends, SLA compliance, response time, resolution time, and engineer performance.
+    locked: false
+    tags: [power_bi, service_desk, kpi, sla]
+
+  - id: proj_servicedesk_02
+    section: projects
+    project: IT Service Desk Performance Dashboard
+    lead_in: SQL ETL & Automation
+    text: Extracted and transformed service desk data with SQL and Power Query, automating weekly/monthly reporting and cutting manual effort by ~30%.
+    locked: true
+    metrics: ["~30%"]
+    tags: [sql, power_query, automation, efficiency]
+
+  - id: proj_assetmgmt_01
+    section: projects
+    project: IT Asset & Inventory Management Dashboard
+    lead_in: Centralized Asset BI
+    text: Built a centralized Power BI dashboard tracking laptops, desktops, printers, monitors, and network devices across the L&T Realty site, consolidating data from multiple Excel files into a single source of truth using Power Query.
+    locked: false
+    tags: [power_bi, power_query, asset_management, l&t]
+
+  - id: proj_assetmgmt_02
+    section: projects
+    project: IT Asset & Inventory Management Dashboard
+    lead_in: Drill-Through Analytics
+    text: Added filters and drill-through views for tracking assets by location, department, and type.
+    locked: false
+    tags: [power_bi, drill_through, filtering]
+
+  - id: proj_sales_01
+    section: projects
+    project: Sales Performance & Revenue Analysis Dashboard
+    lead_in: Revenue Growth BI
+    text: Analyzed historical sales data across regions and product categories, then built an interactive Power BI dashboard tracking monthly sales, revenue growth, and regional performance using Power Query, SQL, and Pandas.
+    locked: false
+    tags: [power_bi, sql, pandas, sales, revenue]

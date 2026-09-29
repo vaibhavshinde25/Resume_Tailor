@@ -1,0 +1,20 @@
+certifications:
+  - name: Cisco Data Analytics Essentials
+    issuer: Cisco
+    issue_date: ""
+    credential_id: ""
+projects:
+  - name: IT Service Desk Performance Dashboard
+    technologies: Power BI, SQL, Excel
+    bullets:
+      - Built an interactive Power BI dashboard covering ticket volume, incident trends, SLA compliance, response time, resolution time, and engineer performance.
+      - Extracted and transformed service desk data with SQL and Power Query, automating weekly/monthly reporting and cutting manual effort by ~30%.
+  - name: IT Asset & Inventory Management Dashboard
+    technologies: Excel, Power BI
+    bullets:
+      - Built a centralized Power BI dashboard tracking laptops, desktops, printers, monitors, and network devices across the L&T Realty site, consolidating data from multiple Excel files into a single source of truth using Power Query.
+      - Added filters and drill-through views for tracking assets by location, department, and type.
+  - name: Sales Performance & Revenue Analysis Dashboard
+    technologies: Power BI, SQL, Excel, Python
+    bullets:
+      - Analyzed historical sales data across regions and product categories, then built an interactive Power BI dashboard tracking monthly sales, revenue growth, and regional performance using Power Query, SQL, and Pandas.

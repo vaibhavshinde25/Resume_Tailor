@@ -1,0 +1,38 @@
+name: VAIBHAV SHINDE
+target_roles:
+  - Data Analyst
+  - Business Analyst
+contact:
+  email: vaibhavshinde4850@gmail.com
+  phone: "+91 9579650032"
+  location: Kopar Khairane, Navi Mumbai, Maharashtra
+  linkedin: linkedin.com/in/vaibhavshinde-3b2279255
+employers:
+  - company: Micropoint Computers Pvt. Ltd., Mumbai
+    official_designation: Technical Support Engineer
+    titles:
+      de: Data Analyst
+      da: Data Analyst
+      ba: Business Analyst
+    client: L&T Realty
+    project_de: Data Analytics & Reporting
+    location: Mumbai, Maharashtra
+    start_date: Aug 2024
+    end_date: Present
+  - company: Data Universe
+    official_designation: Data Analyst Intern
+    titles:
+      de: Data Analyst Intern
+      da: Data Analyst Intern
+    client: ""
+    project_de: Core Business Reporting & EDA
+    location: India
+    start_date: Jan 2024
+    end_date: Jun 2024
+education:
+  - degree: Bachelor of Computer Application (BCA)
+    institution: R. C. Patel Arts, Commerce & Science College, Shirpur, Dhule – North Maharashtra University (NMU)
+    dates: Apr 2021 – May 2024
+    cgpa: 9.00 / 10.0
+domain: Data Analytics & Business Intelligence
+years_of_experience: "2.6+"

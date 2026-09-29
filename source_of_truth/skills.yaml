@@ -1,0 +1,39 @@
+analytics_and_visualization:
+  - Power BI
+  - DAX
+  - Power Query
+  - Advanced Excel
+  - Pivot Tables
+  - XLOOKUP / VLOOKUP
+  - Macros
+  - Dashboard Development
+  - Data Visualization
+  - Business Intelligence (BI)
+  - MIS Reporting
+programming_and_data:
+  - SQL (Joins, CTEs, Window Functions)
+  - MySQL
+  - Python (Pandas, NumPy)
+  - R
+  - Databricks Notebooks
+  - Jupyter Notebook
+business_and_strategic_impact:
+  - KPI Design
+  - SLA Reporting
+  - Requirements Gathering
+  - Process Automation
+  - Root-Cause Analysis
+  - Stakeholder Management
+  - Cross-Functional Collaboration
+data_governance_and_quality:
+  - Data Cleaning
+  - Data Quality Assurance
+  - ETL
+  - Multi-Source Data Integration
+  - Exploratory Data Analysis (EDA)
+  - Statistical Analysis
+cloud_and_tools:
+  - AWS (S3, Glue, EC2)
+  - Git/GitHub
+  - Microsoft 365
+  - Active Directory
